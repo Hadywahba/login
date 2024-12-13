@@ -27,7 +27,7 @@ function signIn(){
         location.href = "index.html";
     }
     else{
-        alarmMessage.innerHTML="invalid email or email already exist";
+        alarmMessage.innerHTML="invalid email or password or email already exist";
         alarmMessage.classList.add("text-danger");   
     }
     }

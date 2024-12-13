@@ -37,6 +37,9 @@ input::placeholder{
     font-size: 17px;
     font-weight: normal;  
 }
+a.btn-outline-warning {
+    border-color: #ffc107 !important;
+}
 a.gotosignin{
 position: relative;
 cursor: pointer;
